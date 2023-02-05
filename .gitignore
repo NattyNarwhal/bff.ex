@@ -24,3 +24,6 @@ bff-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore build artifact (escript)
+bff
